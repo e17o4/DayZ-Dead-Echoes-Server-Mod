@@ -1,22 +1,40 @@
+Copyright © 2026 Shirley Smith / BetaKi / Eyes Only / e17o4
+All Rights Reserved
 
-The MIT License (MIT)
+This modification is a proprietary server-side framework created for use with the video game DayZ.
+DayZ and all original game assets, code, and intellectual property remain the property of Bohemia Interactive. No ownership is claimed over any DayZ content.
 
-Copyright (c) 2024 DayZ n' Chill
+PERMITTED USE
+You are permitted to:
+Use this mod exclusively on DayZ servers for gameplay purposes.
+Configure and operate server settings that rely on this mod as intended.
+Run the mod in its unaltered form as part of a server environment.
+Use the mod to learn DayZ mod coding
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+RESTRICTIONS
+You may NOT:
+Repack
+Reupload
+Redistribute
+Modify
+Monetize
+Use assets in other projects
+without explicit written permission from the author.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This includes, but is not limited to:
+Extracting scripts, assets, or configurations
+Incorporating any part of this mod into other mods or frameworks
+Recreating functionality or systems from this mod in derivative works
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+ATTRIBUTION
+Proper credit must be maintained when this mod is used in any permitted server environment:
+Dead Echoes Dayz Server Mod by Shirley Smith / BetaKi / Eyes Only
+Attribution must remain visible in server listings, documentation, or credits where applicable.
+
+TERMINATION
+This license is non-transferable and may be updated or revoked at any time by the author.
+Continued use of the mod after updates constitutes acceptance of the revised terms.
+
+FINAL NOTICE
+This mod is provided strictly as a server deployment package.
+All rights not explicitly granted are reserved.
